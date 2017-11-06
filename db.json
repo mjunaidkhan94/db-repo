@@ -1,8 +1,11 @@
 {
   "posts": [
     {
-      "id": 1,
-      "title": "hello"
+    "pname":"junaid",
+    "bdate":"31/12/1994",
+    "salary":"20000",
+    "gender":"Male",
+    "maritalstatus":"Single"
     }
   ],
   "profile": {
