@@ -1,6 +1,7 @@
 {
   "posts": [
     {
+      "id":"1",
     "pname":"junaid",
     "bdate":"31/12/1994",
     "salary":"20000",
