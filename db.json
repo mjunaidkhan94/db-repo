@@ -1,10 +1,10 @@
 {
   "posts": [
     {
-      "id":"1",
+      "id":1,
     "pname":"junaid",
     "bdate":"31/12/1994",
-    "salary":"20000",
+    "salary":20000,
     "gender":"Male",
     "maritalstatus":"Single"
     }
